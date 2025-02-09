@@ -17,5 +17,13 @@
     <img alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-💻✨ Apaixonado por tecnologia e sempre em busca de novos conhecimentos! Atualmente, estou me formando em Análise e Desenvolvimento de Sistemas e aprimorando minhas habilidades em Python, MySQL, HTML e CSS. Gosto de criar, aprender e solucionar problemas através da programação. 🚀
+💻 Desenvolvedor em evolução | 🎓 ADS - UniBrasil | 🐍 Aprendendo Python
+
+Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e desenvolvimento. Estou sempre explorando novas linguagens e frameworks, com foco em Python, MySQL, HTML, CSS e PHP.
+
+🔹 Atualmente, estou aprofundando meus conhecimentos em Python 3 e aprimorando meus projetos.
+🔹 Já desenvolvi um sistema de login e estou trabalhando em um projeto de HTML e CSS para o LinkedIn.
+🔹 Busco oportunidades para crescer como desenvolvedor e contribuir com projetos interessantes.
+
+🚀 Vamos trocar ideias e codar juntos?
 
