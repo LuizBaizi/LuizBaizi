@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Luiz Fernando! 👋
 
-[![Site Pessoal](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-luiz-fernando-baizi-colnago.netlify.app)
+[![Site Pessoal](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-luiz-fernando-baizi.netlify.app)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-baizi-colnago-81b9971a7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz_baizi?igsh=MTEzNWppNjA3eHV0bw%3D%3D&utm_source=qr)
